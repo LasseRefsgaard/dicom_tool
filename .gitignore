@@ -1,3 +1,7 @@
+# My stuff
+poits_and_boxes.txt
+dicom/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
